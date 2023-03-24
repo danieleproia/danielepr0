@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielepr0
 - 👀 I’m interested in IT
 - 🌱 I’m currently learning to hate more Drupal
-- 💞️ I’m looking to collaborate on games whenever i learn to program in C
+- 💞️ I’m looking to collaborate on games if i can
 - 📫 How to reach me daniele.proia@gmail.com
 
 <!---
